@@ -37,14 +37,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sxx3306&show_icons=true&theme=dark)
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sxx3306&theme=tokyonight)](https://github.com/sxx3306)
-</p>
-
----
-
 ### 🔗 Connect
 - Discord: **sxx3306**
 
